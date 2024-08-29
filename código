@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo - Nome Completo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Nome Completo</h1>
+        <p>(DDD) 55 41 9814-1047 | miranda.jenifer@escola.pr.gov.br</p>
+    </header>
+    
+    <section id="objective">
+        <h2>Objetivo</h2>
+        <p>Busco oportunidades de trabalho para adquirir experiência e contribuir com minhas habilidades, além de ajudar minha mãe com as despesas da casa.</p>
+    </section>
+    
+    <section id="education">
+        <h2>Formação Acadêmica</h2>
+        <p>Colégio Estadual Alfredo Parodi</p>
+        <p>Cursando o 1º ano do Ensino Médio</p>
+    </section>
+    
+    <section id="experience">
+        <h2>Experiência Profissional</h2>
+        <p>Sem experiência profissional formal até o momento.</p>
+    </section>
+    
+    <section id="courses">
+        <h2>Cursos e Certificações</h2>
+        <p>Curso de Farmácia - CEBRAC (2023-2024)</p>
+    </section>
+    
+    <section id="languages">
+        <h2>Idiomas</h2>
+        <p>Português (nativo)</p>
+    </section>
+    
+    <section id="additional-info">
+        <h2>Informações Adicionais</h2>
+        <p>Disponibilidade para aprender e se adaptar a novos desafios.</p>
+        <p>Proativo e dedicado a atingir objetivos pessoais e profissionais.</p>
+    </section>
+
+    <footer>
+        <button id="contact-btn">Entre em Contato</button>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
